@@ -7,9 +7,10 @@ Background in quantitative analysis — Forex trading, macroeconomic research, a
 ## What I build
 
 * **Vizta** — an e-learning platform for students with per-student progress tracking, subject-scoped lessons (Mathematics, Media Arts), and gamified task-completion gating. Built and actively maintained using Claude Code as my development agent. → https://darylbuenavista451996.github.io
+* **Kleanbase** (Canadian e-commerce) — Automated Klaviyo + HubSpot lead workflows for an international client, synced via a self-hosted n8n instance.
+* **Smapey** — Blog automation across 7 products: content rotation, images, logging to Sheets.
 * **vizta-discord-bot** — Discord bot integrated with the Claude API for AI-powered responses.
 * **ecommerce-agent** — Automates order processing and inventory sync for an e-commerce store, removing manual reconciliation between orders and stock.
-* **wme-migration-agent** — AI agent that automates data migration decisions (field mapping, conflict resolution, validation) between systems during a platform migration.
 
 ## Stack
 
