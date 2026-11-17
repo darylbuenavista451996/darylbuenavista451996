@@ -1,6 +1,6 @@
 # Hi, I'm Daryl 👋
 
-**AI Agent & Workflow Engineer** — I build AI-powered automations, agents, and API integrations using Python, Claude, and n8n. I also use AI coding agents (Claude Code) as part of my own build process, not just as an API I call.
+**AI Agent & Workflow Engineer** — I build AI-powered automations, agents, and API integrations using Python, Claude, and n8n — the same patterns (webhooks, APIs, workflow orchestration) that plug straight into CRM/marketing-automation platforms like GoHighLevel. I also use AI coding agents (Claude Code) as part of my own build process, not just as an API I call.
 
 Background in quantitative analysis — Forex trading, macroeconomic research, and Math & Statistics teaching — which shapes how I approach data-driven and decision-support systems.
 
@@ -13,7 +13,7 @@ Background in quantitative analysis — Forex trading, macroeconomic research, a
 
 ## Stack
 
-Python · Claude API / Anthropic · n8n · REST APIs · Webhooks · AI Agents · SQL
+Python · Claude API / Anthropic · n8n · REST APIs · Webhooks · AI Agents · SQL · CRM/marketing-automation integration (GoHighLevel-ready)
 
 ## Elsewhere
 
